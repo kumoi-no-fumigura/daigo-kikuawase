@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/daigo-kikuawase",
  "yomi": "だいごのおおんときのきくあわせ",
  "category": "歌合",
- "description": null,
+ "description": {
+  "kind": "物合（菊合）",
+  "era": "醍醐天皇の代（897〜930）",
+  "author": "主催 醍醐天皇",
+  "desc": "醍醐天皇のもとで催された菊合の歌。霜にうつろう菊の色を詠む歌が多い。後に天暦7年10月の内裏菊合の記録と歌が続く。"
+ },
  "editions": [
   {
    "pid": "1128193",
